@@ -1,0 +1,163 @@
+% Complete = (Pass/Total Test Case)*100 = 11%
+
+% Test Coverage = (#Executed/Total TC)*100
+
+% Test Case Passed = (Total Passed/Total Executed)*100 =
+
+% Test Case Blocked = (Blocked/Total Test Case) *100
+
+% 1st Run Failure = (# 1st Run Failure /# Executions)*100 = (2/13) *100 = 15.4%
+
+% Failure = (Total Failure/Total Execution) = (3/15)*100 = 20%
+
+% Defect Corrected = (1st Run Failure/Total Failure)*100 = (2/3)*100 = 66.67%
+
+% Rework
+
+
+# Executed = Distinct execution for each test case = 13
+
+Total Execution = total number of executions done = 15
+
+
+
+% Defect Correction = (# Defect Fixed/ # Defects Raised)*100
+
+
+
+
+
+
+
+
+10 Defects ---->testing phase
+
+10 Defects ----->User (production Bugs)--->0
+
+
+(10/10+10)*100 =50%
+
+
+Testing team is not at all efficiency
+
+
+
+
+
+
+DSI->Defect Severity Index (open)
+
+
+Let's assume that every severity we have certain index defined
+
+
+Critical------->5
+High------------>3
+Medium----------->2
+Low-------------->1
+
+
+
+Number of Bugs identified per severity
+
+# Critical Bugs ---------->2
+# High Bugs -------------> 4
+# Medium Bugs------------>6
+# Low Bugs-------------->0
+
+
+DSI = ((2*5) + (4*3) + (6*2) + (0*1))/12 ==  34/12 = 2.83
+
+Test Strategy
+
+If DSI > 1 and no critical bug open------> No release  
+If DSI <=1 ------>Release
+
+
+
+In test plan if have defined-->no critical
+
+
+
+
+
+
+Login Module
+
+Expected ---> 2 days
+
+
+Actual---> 3 days
+
+Schedule = (3-2)/2 = 50%
+
+
+
+
+Effor variance = ((20 - 10)/10)*100 = 100%
+
+
+
+Estimated = 20
+Actual 10
+
+(10-20)/20 =  -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
